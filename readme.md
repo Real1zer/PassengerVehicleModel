@@ -16,13 +16,9 @@
 ### 微分方程
 
 $$
-\tag{1}
-
-\begin{align}
 (k_{1}+k_{2})\beta  +\frac{1}{u} (ak_{1}-bk_{2})\omega _{r}-k_{1}\delta =m(\dot{v} +u\omega _{r})
 \\
 (ak_{1}-bk_{2})\beta +\frac{1}{u}(a^{2}k_{1}+b^{2}k_{2})\omega _{r}-ak_{1}\delta =I_{Z}\omega _{r}
-\end{align}
 $$
 
 $$
